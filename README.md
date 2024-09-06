@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola a todos👋
+Me presento, soy Alejandro Palacios. Un fanático de la programación, tengo 17 años y empecé a interesarme y adentrarme en este mundo de la programación desde que tengo 12 años.
+Actualmente me encuentro cursando un curso Full-Stack
 <!--
 **4L3z/4L3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
